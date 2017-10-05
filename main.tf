@@ -1,4 +1,1 @@
-provider "consul" {
-  datacenter = "${var.datacenter}"
-  path = "${var.path}"
-}
+provider "consul" {}

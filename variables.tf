@@ -1,2 +1,0 @@
-variable "datacenter" {}
-variable "path" {}
