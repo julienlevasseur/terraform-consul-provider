@@ -1,7 +1,2 @@
-variable "consul" {
-  type = "map"
-  default = {
-    datacenter = ""
-    path = ""
-  }
-}
+variable "datacenter" {}
+variable "path" {}
